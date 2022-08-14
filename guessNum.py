@@ -34,4 +34,3 @@ def computer_guess(x):
 computer_guess(10)
     
         
-        
